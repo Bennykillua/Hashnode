@@ -4,7 +4,7 @@ subtitle: Share your account online without revealing your password.
 slug: share-your-cookies
 tags: general programming, web development, tutorial, productivity
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658652857966/hoVk-R7Mg.png?auto=compress
-domain: https://benny.hashnode.dev/ 
+domain: benny.hashnode.dev/ 
 ---
 
 # What are Cookies?
