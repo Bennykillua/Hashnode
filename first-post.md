@@ -1,9 +1,8 @@
 ---
 title: Sharing Accounts Through Cookies
 domain: https://benny.hashnode.dev/ 
-tags: General Programming, Web Development, Tutorial, Productivity
+tags: general programming, web development, tutorial, productivity
 subtitle: YOUR_SUBTITLE_HERE
-/* The pathname of your article url
 https://benny.hashnode.dev/share-your-cookies
 slug: share-your-cookies
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658652857966/hoVk-R7Mg.png?auto=compress
