@@ -17,3 +17,17 @@ While this might make you uneasy, cookies are safe and useful. For starters, the
 Imagine having to sign in each time you navigated to a different site, closed your browser, or had your shopping cart cleared because you navigated to another website. That wouldn't exactly be a nice experience, would it? Cookies prevent that nightmare from happening.
 
 This short article will explain how you can share your accounts with friends or family without revealing passwords using cookies.
+
+## Prerequisite
+- [Google Chrome browser](https://www.google.com/chrome/)
+- [Cookie-Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm), which you can find at the [Chrome web store](https://chrome.google.com/webstore/category/extensions). This extension can import, export, edit, and create new cookies.
+
+Install the Chrome extension, and let's eat; sorry, I mean, share some cookies.
+
+# Importing Cookies
+Let's assume you want to share the log-in details of abc.xy. 
+
+1. Add the extension to Chrome browser by clicking on the "Add to Chrome" button.
+
+
+
