@@ -18,6 +18,6 @@ publishAs: USERNAME_OF_AUTHOR_OF_ARTICLE
  the origin url as canonical url */ 
 canonical: CANONICAL_URL_OF_ARTICLE 
 /* Only if you don't want this article to be published yet */ 
-ignorePost: true
+
 ---
 Enter article body here
