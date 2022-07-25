@@ -66,7 +66,7 @@ Note: If you log out of abc.xy, you will need to repeat the whole process.
 # Is Sharing Cookies Dangerous?
 Unauthorized guests can access your account and launch attacks on your internet privacy,  such as man-in-the-middle attacks, XSS (cross-site scripting) attacks, or CSRF attacks. This [article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/) by [Kris Koishigawa](https://twitter.com/kriskoishigawa) has further information on this topic.
 
-# Disabling Cookies' Access
+# Disabling Cookies Access
 Although there are many approaches, you, the account owner, can simply log out of the account in this situation. This will disrupt the saved session and log-out everyone the cookie was shared with.
 
 # Wrapping Up
