@@ -69,6 +69,15 @@ Unauthorized guests can access your account and launch attacks on your internet 
 # Disabling Cookies' Access
 Although there are many approaches, you, the account owner, can simply log out of the account in this situation. This will disrupt the saved session and log-out everyone the cookie was shared with.
 
+# Wrapping Up
+Users’ web experience has significantly changed thanks to cookies. Although you can share a few accounts with your friends using this tutorial, you should keep security concerns in mind.
+
+Check out the resources to learn more about cookies, share this article, and let me know on Twitter if you found this tutorial useful.
+
+# Resources
+- [What are Cookies?](https://www.kaspersky.com/resource-center/definitions/cookies)
+- [Everything You Need to Know About Cookies for Web Development.](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
+- [The Different Types of Internet Cookies Explained.](https://termly.io/resources/articles/types-of-internet-cookies/)
 
 
 
