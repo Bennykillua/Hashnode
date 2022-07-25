@@ -31,8 +31,45 @@ Let's assume you want to share the log-in details of abc.xy.
 
 ![Cookies Editors](images/cookies-editor.png)
 
+2. Log in to the abc.xy account you wish to share with a friend. 
+
+3. At the ribbon of your Chrome browser, you should see the cookie icon.
+
+4. Click it and click on export.
+
 ![Export Cookies](images/export-cookies.png)
 
+5. Cookies will be automatically exported to your clipboard.
+
+You can send your friend the copied text. 
+
+# Exporting Cookies
+
+So you have shared it, but how do they use the cookie on the abc.xy website?
+
+1. First, they need to add the [Cookie-Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) extension to their [Chrome browser](https://www.google.com/chrome/).
+
+2. Open abc.xy website.
+
+3. Click on the extension and click on import.
+
+4. Paste the shared text, which is JSON.
+
+5. Click on Import.
+
 ![import Cookies](images/import-cookies.png)
+
+6. Refresh the website.
+
+Note: If you log out of abc.xy, you will need to repeat the whole process.
+
+# Is Sharing Cookies Dangerous?
+Unauthorized guests can access your account and launch attacks on your internet privacy,  such as man-in-the-middle attacks, XSS (cross-site scripting) attacks, or CSRF attacks. This [article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/) by [Kris Koishigawa](https://twitter.com/kriskoishigawa) has further information on this topic.
+
+# Disabling Cookies' Access
+Although there are many approaches, you, the account owner, can simply log out of the account in this situation. This will disrupt the saved session and log-out everyone the cookie was shared with.
+
+
+
 
 
