@@ -4,9 +4,8 @@ subtitle: share your account online without revealing your password
 slug: share-your-cookies
 tags: general-programming, web-development, tutorial, productivity, technology, beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658652857966/hoVk-R7Mg.png?auto=compress
-domain: benny.hashnode.dev/
+domain: benny.hashnode.dev
 ---
-
 
 # What are Cookies?
 Cookies are small text files with data used to personalize, save, and remember certain information about the user and their session. Different cookie types are used for various purposes. However, we'll focus on session cookies today because they save information like your username and password and are used to streamline your web experience.
