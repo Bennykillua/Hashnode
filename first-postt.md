@@ -5,7 +5,6 @@ slug: share-your-cookies
 tags: general programming, web development, tutorial, productivity 
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658652857966/hoVk-R7Mg.png?auto=compress
 domain: benny.hashnode.dev/
-ignorePost: true
 ---
 
 // add the - to publish
