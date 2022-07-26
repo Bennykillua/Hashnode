@@ -70,7 +70,7 @@ Although there are many approaches, you, the account owner, can simply log out o
 # Wrapping Up
 Users’ web experience has significantly changed thanks to cookies. Although you can share a few accounts with your friends using this tutorial, you should keep security concerns in mind.
 
-Check out the resources to learn more about cookies, share this article, and let me know on Twitter if you found this tutorial useful.
+Check out the resources to learn more about cookies, share this article, and let me know on [Twitter](https://twitter.com/bennykillua) if you found this tutorial useful.
 
 # Resources
 - [What are Cookies?](https://www.kaspersky.com/resource-center/definitions/cookies)
