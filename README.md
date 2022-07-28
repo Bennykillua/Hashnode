@@ -11,6 +11,8 @@ If you don't find a log in your publication dashboard on Hashnode, but have made
 *   Frontmatter: Make sure each article has these details at the top of the file.
     
  Every Images should use this https://hashnode.com/uploader
+ 
+ link to blog: https://townhall.hashnode.com/start-using-github-to-publish-articles-on-hashnode
 ```
 ---
 title: YOUR_TITLE_HERE **(Required)**
