@@ -27,7 +27,7 @@ Let's assume you want to share the log-in details of abc.xy.
 
 1. Add the extension to Chrome browser by clicking on the "Add to Chrome" button.
 
-[Cookies Editors](https://cdn.hashnode.com/res/hashnode/image/upload/v1659000200280/hAYY1mOEc.png?auto=compress)
+![Cookies Editors](https://cdn.hashnode.com/res/hashnode/image/upload/v1659000200280/hAYY1mOEc.png?auto=compress)
 
 2. Log in to the abc.xy account you wish to share with a friend. 
 
@@ -35,7 +35,7 @@ Let's assume you want to share the log-in details of abc.xy.
 
 4. Click it and click on export.
 
-![Export Cookies](images/export-cookies.png)
+![Export Cookies](https://cdn.hashnode.com/res/hashnode/image/upload/v1659000711728/DyJnZAM-g.png?auto=compress)
 
 5. Cookies will be automatically exported to your clipboard.
 
@@ -55,7 +55,7 @@ So you have shared it, but how do they use the cookie on the abc.xy website?
 
 5. Click on Import.
 
-![import Cookies](images/import-cookies.png)
+![import Cookies](https://cdn.hashnode.com/res/hashnode/image/upload/v1659000754517/TFp87XCxj.png?auto=compress)
 
 6. Refresh the website.
 
