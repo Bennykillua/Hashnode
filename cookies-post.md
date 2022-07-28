@@ -77,3 +77,8 @@ Check out the resources to learn more about cookies, share this article, and let
 - [Everything You Need to Know About Cookies for Web Development.](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
 - [The Different Types of Internet Cookies Explained.](https://termly.io/resources/articles/types-of-internet-cookies/) 
 
+# Acknowledgment
+
+This post was published using this [article: Start Using GitHub to Publish Articles on Hashnode](https://townhall.hashnode.com/start-using-github-to-publish-articles-on-hashnode) by [Girish Patil](https://github.com/theevilhead)
+
+GitHub Readme: [link](https://github.com/Bennykillua/Hashnode/blob/main/cookies-post.md)
