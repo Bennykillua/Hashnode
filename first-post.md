@@ -2,7 +2,7 @@
 title: Sharing Accounts Through Cookies
 subtitle: share your account without revealing your password
 slug: share-your-cookies
-tags: general-programming, web-development, tutorial, productivity, beginners
+tags: general programming, web development, tutorial, productivity, beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658652857966/hoVk-R7Mg.png?auto=compress
 domain: benny.hashnode.dev/
 ---
