@@ -75,7 +75,7 @@ Check out the resources to learn more about cookies, share this article, and let
 # Resources
 - [What are Cookies?](https://www.kaspersky.com/resource-center/definitions/cookies)
 - [Everything You Need to Know About Cookies for Web Development.](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
-- [The Different Types of Internet Cookies Explained.](https://termly.io/resources/articles/types-of-internet-cookies/)
+- [The Different Types of Internet Cookies Explained.](https://termly.io/resources/articles/types-of-internet-cookies/) 
 
 
 
