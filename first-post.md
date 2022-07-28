@@ -2,7 +2,7 @@
 title: Sharing Accounts Through Cookies
 subtitle: share your account without revealing your password
 slug: share-your-cookies
-tags: python, machine-learning, data-science, apis, introduction, research
+tags: web-development, productivity, security, google
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658652857966/hoVk-R7Mg.png?auto=compress
 domain: benny.hashnode.dev/
 ---
