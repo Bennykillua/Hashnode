@@ -27,7 +27,7 @@ Let's assume you want to share the log-in details of abc.xy.
 
 1. Add the extension to Chrome browser by clicking on the "Add to Chrome" button.
 
-![Cookies Editors](https://cdn.hashnode.com/res/hashnode/image/upload/v1659000200280/hAYY1mOEc.png?auto=compress)
+[Cookies Editors](https://cdn.hashnode.com/res/hashnode/image/upload/v1659000200280/hAYY1mOEc.png?auto=compress)
 
 2. Log in to the abc.xy account you wish to share with a friend. 
 
