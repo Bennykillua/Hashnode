@@ -2,9 +2,9 @@
 title: Sharing Accounts Through Cookies
 subtitle: share your account without revealing your password
 slug: share-your-cookies
-tags: web development, productivity, security, google
+tags: tutorial, beginners, productivity, security, google
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658652857966/hoVk-R7Mg.png?auto=compress
-domain: benny.hashnode.dev/
+domain: benny.hashnode.dev
 ---
 
 # What are Cookies?
