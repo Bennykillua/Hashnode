@@ -10,6 +10,7 @@ If you don't find a log in your publication dashboard on Hashnode, but have made
 *   you added the correct blog domain in your markdown file.
 *   Frontmatter: Make sure each article has these details at the top of the file.
     
+ Every Images should use this https://hashnode.com/uploader
 ```
 ---
 title: YOUR_TITLE_HERE **(Required)**
