@@ -22,7 +22,7 @@ This short article will explain how you can share your accounts with friends or 
 
 Install the Chrome extension, and let's eat; sorry, I mean, share some cookies.
 
-# Importing Cookies
+# Exporting Cookies
 Let's assume you want to share the log-in details of abc.xy. 
 
 1. Add the extension to Chrome browser by clicking on the "Add to Chrome" button.
@@ -35,13 +35,13 @@ Let's assume you want to share the log-in details of abc.xy.
 
 4. Click it and click on export.
 
+5. Cookies will be automatically exported to your clipboard. You can send your friend the copied text. 
+
 ![Export Cookies](https://cdn.hashnode.com/res/hashnode/image/upload/v1659000711728/DyJnZAM-g.png?auto=compress)
 
-5. Cookies will be automatically exported to your clipboard.
 
-You can send your friend the copied text. 
 
-# Exporting Cookies
+# Importing Cookies
 
 So you have shared it, but how do they use the cookie on the abc.xy website?
 
@@ -62,7 +62,7 @@ So you have shared it, but how do they use the cookie on the abc.xy website?
 Note: If you log out of abc.xy, you will need to repeat the whole process.
 
 # Is Sharing Cookies Dangerous?
-Unauthorized guests can access your account and launch attacks on your internet privacy,  such as man-in-the-middle attacks, XSS (cross-site scripting) attacks, or CSRF attacks. This [article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/) by [Kris Koishigawa](https://twitter.com/kriskoishigawa) has further information on this topic.
+Yes, for starters unauthorized guests can access your account. They can also launch attacks such as man-in-the-middle attacks, XSS (cross-site scripting) attacks, or CSRF attacks on your internet privacy. This [article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/) by [Kris Koishigawa](https://twitter.com/kriskoishigawa) has further information on this topic.
 
 # Disabling Cookies Access
 Although there are many approaches, you, the account owner, can simply log out of the account in this situation. This will disrupt the saved session and log-out everyone the cookie was shared with.
@@ -70,9 +70,10 @@ Although there are many approaches, you, the account owner, can simply log out o
 # Wrapping Up
 Users’ web experience has significantly changed thanks to cookies. Although you can share a few accounts with your friends using this tutorial, you should keep security concerns in mind.
 
+# Resources
+
 Check out the resources to learn more about cookies, share this article, and let me know on [Twitter](https://twitter.com/bennykillua) if you found this tutorial useful.
 
-# Resources
 - [What are Cookies?](https://www.kaspersky.com/resource-center/definitions/cookies)
 - [Everything You Need to Know About Cookies for Web Development.](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
 - [The Different Types of Internet Cookies Explained.](https://termly.io/resources/articles/types-of-internet-cookies/) 
